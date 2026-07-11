@@ -25,7 +25,7 @@ The testbed includes 40+ medical devices and 60+ commercial tools spanning sever
 
 #### Network
 
-The lab is built on an air-gapped network with no connection to the outside world. A firewall/router segments the environment into isolated zones — research workstations for analysis and machine learning, the medical devices under test, and a server hosting virtual test environments and device-data storage — with each zone walled off from the others. Guests connect to a separate isolated segment that cannot reach any of the test zones. This segmented design lets students work hands-on with real devices while keeping every experiment contained.
+The lab is built on an air-gapped network with no connection to the outside world. A firewall/router segments the environment into isolated zones: research workstations for analysis and machine learning, the medical devices under test, and a server hosting virtual test environments and device-data storage, where each zone is walled off from the others. Guests connect to a separate isolated segment that cannot reach any of the test zones. This segmented design lets students work hands-on with real devices while keeping every experiment contained.
 
 ## Modules
 
